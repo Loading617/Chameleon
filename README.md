@@ -1,2 +1,2 @@
 # Chameleon
-Movie and TV Show Scanner
+Movie and TV Show Scanner for Android
